@@ -1,6 +1,6 @@
 # bandori-autofun
 ## Overview
-Autopatcher for bandori, works for all version/region. The provided tool will automatically unpack the APK, then insert smali files and code which required to load the provided native library.
+Autopatcher for [BanG Dream! Girls Band Party!](https://play.google.com/store/apps/details?id=com.bushiroad.en.bangdreamgbp&hl=en), works for all version/region. The provided tool will automatically unpack the APK, then insert smali files and code which required to load the provided native library.
 
 By using this tool and distributes the generated modified APK on the internet, you're helping me to kill android modders, even if by small percentage. Thank you.
 
